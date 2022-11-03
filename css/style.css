@@ -1,0 +1,35 @@
+.header1{
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);
+    padding-top: 100px;
+    height: 100vh;
+}
+.header-all {
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 0;
+    height: 80px;
+    
+    
+}
+.btn-pink{
+    background-color: #ba71da !important;
+}
+.hero{
+    width: 100%;
+}
+.center h1{
+    text-align: center;
+    color: azure;
+    font-size:50px;
+}
+.center h5{
+    text-align: center;
+    color:white;
+    margin-top: 30px;
+}
+.nav{
+    padding: 0 50px;
+}
+.button1 button{
+    border-radius: 30px;
+    color:white;
+}
